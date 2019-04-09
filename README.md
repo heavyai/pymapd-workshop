@@ -1,7 +1,7 @@
 # pymapd-workshop
 Sample code used for explaining Pymapd API usage.
 
-Here are the steps to create a Anaconda Python environment and install Pymapd and the basic Machine Learning packages.
+Here are the steps to create an Anaconda Python environment, and install Pymapd with the basic Machine Learning packages.
 This setup information applies to Linux Centos 7.
 ```bash
 sudo yum install bzip2
